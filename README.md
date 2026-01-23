@@ -5,8 +5,8 @@ Hi! My name is Andra Saputra 😄
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,dart,flutter,laravel,react,vue)](https://skillicons.dev)
 <br/>
 
-### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,)](https://skillicons.dev)
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github)](https://skillicons.dev)
 <br/>
 
 ### GitHub Stats
