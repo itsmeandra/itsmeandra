@@ -2,7 +2,7 @@ Hi! My name is Andra Saputra 😄
 ========================================================================================================================================
 
 ### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,laravel,dart,flutter,react,vue,vite,cpp,firebase&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,laravel,dart,flutter,firebase,react,vue,vite,cpp&perline=10)](https://skillicons.dev)
 <br/>
 
 ### Tools
