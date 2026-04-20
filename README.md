@@ -24,7 +24,10 @@
 
 <h3 align="left">Stats</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeandra&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=itsmeandra&theme=dark-smoky&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeandra&layout=compact&theme=dark&hide_border=true&bg_color=1F222E" height="192px"/></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeandra&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&theme=high-contrast" /></a>
+
   <!-- <img src="https://github-profile-trophy.vercel.app?username=itsmeandra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 </div>
 
