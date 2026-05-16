@@ -14,11 +14,11 @@
 
 <h3 align="left">Tech stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,laravel,dart,flutter,firebase,react,vue,vite,cpp&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,laravel,mysql,dart,flutter,firebase,react,vue,vite,cpp,ts,supabase&perline=10)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,gradle,arduino&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,gradle,arduino,postman&perline=10)](https://skillicons.dev)
 
 ---
 
