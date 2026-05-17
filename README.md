@@ -12,9 +12,7 @@
 
 <p align="left">I am a Computer Science student with a strong focus on frontend web development, always aiming to build interfaces that are clean, responsive, and enjoyable to use. My work spans across web systems, mobile applications, IoT projects, and machine learning experiments all driven by curiosity and a passion for practical solutions.<br><br>I mainly work across frontend development, full-stack web systems, mobile app development, and embedded IoT systems. I enjoy building things that not only work well technically, but also feel polished, intuitive, and meaningful in real-world use cases.</p>
 
-<div align="center" >
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" width="100%" />
-</div>
+---
 
 <h3 align="left">Tech stack</h3>
 
@@ -24,9 +22,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,gradle,arduino,postman&perline=10)](https://skillicons.dev)
 
-<div align="center" >
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" width="100%" />
-</div>
+---
 
 <h3 align="left">Stats</h3>
 <div align="center">
@@ -44,9 +40,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsmeandra&bg_color=0B0C10&color=66FCF1&line=E6EDF3&point=999999&area=true&area_color=2b2b2b&hide_border=true"/></a>  
 </div>
 
-<div align="center" >
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0384.gif" width="100%" />
-</div>
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsmeandra.itsmeandra&"  />
