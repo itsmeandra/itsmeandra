@@ -1,7 +1,7 @@
 <h2 align="left" style="text-decoration: none;">Hey! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="GIF" style="vertical-align: middle;" width="30" height="30"> My name is Andra Saputra</h2>
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFzaDB1ODNyeWM0anF3ZnJkdzN5OWQ3a3ptbHJ4Zjkyb3Vsc2JxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWFzaDB1ODNyeWM0anF3ZnJkdzN5OWQ3a3ptbHJ4Zjkyb3Vsc2JxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80%"/>
 </div>
 
 <div align="center" >
