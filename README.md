@@ -20,7 +20,7 @@
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,gradle,arduino,postman&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,git,github,gradle,arduino,postman,npm,&perline=10)](https://skillicons.dev)
 
 ---
 
