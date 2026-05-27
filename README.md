@@ -29,8 +29,8 @@
   <a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=itsmeandra&theme=dark-smoky&hide_border=true&fire=ff5a00&currStreakNum=ff9a00" alt="GitHub Streak" /></a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeandra&layout=compact&bg_color=0B0C10&title_color=66FCF1&text_color=E6EDF3&hide_border=true&langs_count=8&card_width=320"/></a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeandra&layout=compact&bg_color=0B0C10&title_color=66FCF1&text_color=E6EDF3&hide_border=true&langs_count=8&card_width=320"/></a> -->
 </div>
 
 <br clear="both">
